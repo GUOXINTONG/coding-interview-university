@@ -28,7 +28,7 @@ Each day I take one subject from the list below, watch videos about that subject
 
 </details>
 
-✅## Algorithmic complexity / Big-O / Asymptotic analysis
+## Algorithmic complexity / Big-O / Asymptotic analysis ✅
 
 <details>
 <summary>Algorithmic complexity / Big-O / Asymptotic analysis</summary>
