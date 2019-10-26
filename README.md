@@ -62,7 +62,7 @@ Each day I take one subject from the list below, watch videos about that subject
 <details>
 <summary>Data Structures</summary>
 
-- ### Arrays
+- ### Arrays✅
     - Implement an automatically resizing vector.
     - [ ] Description:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
@@ -99,7 +99,7 @@ Each day I take one subject from the list below, watch videos about that subject
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
-- ### Linked Lists
+- ### Linked Lists✅
     - [ ] Description:
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
@@ -133,12 +133,12 @@ Each day I take one subject from the list below, watch videos about that subject
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
-- ### Stack
+- ### Stack✅
     - [ ] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
     - [ ] [Using Stacks Last-In First-Out (video)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
     - [ ] Will not implement. Implementing with array is trivial.
 
-- ### Queue
+- ### Queue✅
     - [ ] [Using Queues First-In First-Out(video)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
     - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
@@ -159,7 +159,7 @@ Each day I take one subject from the list below, watch videos about that subject
         - dequeue: O(1) (linked list and array)
         - empty: O(1) (linked list and array)
 
-- ### Hash table
+- ### Hash table✅
     - [ ] Videos:
         - [ ] [Hashing with Chaining (video)](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8)
         - [ ] [Table Doubling, Karp-Rabin (video)](https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
