@@ -236,7 +236,7 @@ Each day I take one subject from the list below, watch videos about that subject
 <details>
 <summary>Trees</summary>
 
-- ### Trees - Notes & Background
+- ### Trees - Notes & Background✅
     - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
     - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
     - basic tree construction
@@ -256,7 +256,7 @@ Each day I take one subject from the list below, watch videos about that subject
             - postorder (DFS: left, right, self)
             - preorder (DFS: self, left, right)
 
-- ### Binary search trees: BSTs
+- ### Binary search trees: BSTs✅
     - [ ] [Binary Search Tree Review (video)](https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
     - [ ] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
         - starts with symbol table and goes through BST applications
