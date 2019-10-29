@@ -189,7 +189,7 @@ Each day I take one subject from the list below, watch videos about that subject
 
 </details>
 
-## More Knowledge
+## More Knowledge ✅
 
 <details>
 <summary>More Knowledge</summary>
